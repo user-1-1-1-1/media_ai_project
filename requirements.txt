@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+torch
+transformers
+opencv-python
+pillow
+matplotlib
+seaborn
+flask
+tweepy
+praw
+beautifulsoup4
+nltk
+spacy
+pymorphy2
