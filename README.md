@@ -25,7 +25,7 @@
 
 ## Установка и запуск
 
-1. Клонируйте репозиторий:
+Клонируйте репозиторий:
 ```bash
 git clone https://github.com/ваш-username/emotion-analysis.git
 cd emotion-analysis
